@@ -1,6 +1,6 @@
 # Text compression
 
-C++ command-line tool for text compression and decompression.
+C++ command-line tool for text compression and decompression using the Burrows-Wheeler transform and Huffman coding.
 
 ## Description:
 
